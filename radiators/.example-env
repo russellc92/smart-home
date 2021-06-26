@@ -1,0 +1,4 @@
+ADAX_USER_ID=
+ADAX_PASS=
+ADAX_BASE_URL=https://api-1.adax.no/client-api/
+ADAX_AUTH_PATH=auth/token

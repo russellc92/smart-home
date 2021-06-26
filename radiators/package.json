@@ -1,0 +1,16 @@
+{
+  "name": "radiators",
+  "version": "1.0.0",
+  "description": "obtains data readings from smart radiators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "russellc92",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "simple-oauth2": "^4.2.0"
+  }
+}
